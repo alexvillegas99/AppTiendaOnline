@@ -1,0 +1,7 @@
+{
+  "name": "supertodoguayana",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
